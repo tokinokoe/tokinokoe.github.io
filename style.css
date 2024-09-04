@@ -1,7 +1,8 @@
 body{
   text-align:center;
+  margin:0;
 }
 header{
-  background-color:#73bfbe;
+  background-color:#bce2e8;
   box-shadow:0 2px gray;
 }
