@@ -4,7 +4,7 @@ body{
 }
 header{
   background-color:#bce2e8;
-  box-shadow:0 2px gray;
+  box-shadow:0 2px lightgray;
 }
 header h1{
   font-size:48px;
