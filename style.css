@@ -12,6 +12,7 @@ header h1{
 }
 hr{
   border:2px lightgray solid;
+  width:60%
 }
 #main{
   width:70%;
