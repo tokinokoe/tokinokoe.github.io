@@ -6,3 +6,6 @@ header{
   background-color:#bce2e8;
   box-shadow:0 2px gray;
 }
+header h1{
+  font-size:48px;
+}
