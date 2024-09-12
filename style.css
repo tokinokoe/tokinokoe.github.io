@@ -36,5 +36,5 @@ a.silent-link{
 .frame{
   width:50%;
   margin:auto;
-  border:1px lightgray solid;
+  border-top:2px lightgray solid;
 }
