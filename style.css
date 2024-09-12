@@ -1,40 +1,40 @@
-@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
-body{
-  text-align:center;
-  margin:0;
+@import url("https://fonts.googleapis.com/css2?family=DotGothic16&display=swap");
+body {
+  text-align: center;
+  margin: 0;
 }
-header{
-  background-color:#bce2e8;
-  box-shadow:0 2px lightgray;
+header {
+  background-color: #bce2e8;
+  box-shadow: 0 2px lightgray;
 }
-header h1{
-  font-size:48px;
+header h1 {
+  font-size: 48px;
 }
-hr{
-  height:2px;
-  width:80%;
-  background-color:lightgray;
-  border:none;
+hr {
+  height: 2px;
+  width: 80%;
+  background-color: lightgray;
+  border: none;
 }
-#main{
-  width:70%;
-  margin:auto;
-  border:2px lightgray solid;
+#main {
+  width: 70%;
+  margin: auto;
+  border: 2px lightgray solid;
 }
 .dotgothic16-regular {
   font-family: "DotGothic16", system-ui;
   font-weight: 400;
   font-style: normal;
 }
-a.silent-link{
-  text-decoration:none;
-  color:black;
+a.silent-link {
+  text-decoration: none;
+  color: black;
 }
-.content{
-  text-align:left;
+.content {
+  text-align: left;
 }
-.frame{
-  width:50%;
-  margin:auto;
-  border-top:2px lightgray solid;
+.frame {
+  width: 50%;
+  margin: auto;
+  border-top: 2px lightgray solid;
 }
