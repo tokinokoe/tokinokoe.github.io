@@ -26,3 +26,7 @@ hr{
   font-weight: 400;
   font-style: normal;
 }
+a.silent-link{
+  text-decoration:none;
+  color:black;
+}
