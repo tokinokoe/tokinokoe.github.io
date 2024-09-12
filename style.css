@@ -30,3 +30,7 @@ a.silent-link{
   text-decoration:none;
   color:black;
 }
+ul{
+  width:fit-content;
+  margin:auto;
+}
