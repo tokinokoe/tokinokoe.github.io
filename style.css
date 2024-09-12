@@ -31,7 +31,10 @@ a.silent-link{
   color:black;
 }
 .content{
-  width:50%;
   text-align:left;
+}
+.frame{
+  width:50%;
   margin:auto;
+  border:1px black solid;
 }
