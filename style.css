@@ -38,3 +38,6 @@ a.silent-link {
   margin: auto;
   border-top: 2px lightgray solid;
 }
+#whats-new-content{
+  max-height: 70vh;
+}
